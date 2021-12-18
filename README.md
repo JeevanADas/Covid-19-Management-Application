@@ -6,7 +6,7 @@ The COVID-19 pandemic has affected people in a severe manner, Testing and vaccin
 Our application aims to deliver a system to manage the vaccination and testing related information. The application aims to provide a user-friendly and easy-to-use system that: 
 - Helps users manage their vaccination and testing related duties.
 - Helps labs to manage the update of results and certificates for the user to access.
-- 
+
 # Technologies used:
 - JDBC
 - Window Builder
